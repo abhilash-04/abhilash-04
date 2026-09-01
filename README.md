@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhilash Sahu
 
 <h3 align="center">
-  Full Stack Developer • AI Enthusiast • Hackathon Builder
+  Full Stack Developer • AI Enthusiast 
 </h3>
 
 <p align="center">
@@ -221,7 +221,7 @@ AI / ML         ██████████░░░░░░░░░░
 <img src="https://img.shields.io/badge/Instagram-_abhilash__sahu_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/@elite_abhilash">
+<a href="https://www.hackerrank.com/elite_abhilash">
 <img src="https://img.shields.io/badge/HackerRank-elite__abhilash-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
