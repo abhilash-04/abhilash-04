@@ -1,260 +1,29 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Abhilash Sahu</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<h3 align="center">
-  Full Stack Developer • AI Enthusiast • Software Developer 🇮🇳
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-04&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-04" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilash-04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/abhilash-04?label=Followers&style=flat" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/abhilash-04?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
-</p>
+- 🔭 I’m currently working on [CareSetu__AI](https://github.com/abhilash-04/CareSetu__AI)
 
----
+- 🌱 I’m currently learning **React.js • Next.js • Django • REST APIs**
 
-## 👨‍💻 About Me
+- 💬 Ask me about **Full-Stack Development • AI • Hackathons • Web Apps**
 
-I'm **Abhilash Sahu**, a passionate developer from India 🇮🇳 who enjoys building practical web applications and exploring AI-powered solutions.
+- 📫 How to reach me **abhilashsahu305@gmail.com**
 
-- 🔭 Currently working on **CareSetu__AI**
-- 🌱 Currently learning **React.js • Next.js • Django • REST APIs**
-- 💻 Interested in **Full Stack Development & AI**
-- 🧠 Exploring **AI-powered applications and intelligent systems**
-- 🚀 I enjoy turning ideas into functional products
-- 📚 Continuously improving my **DSA, development and software engineering skills**
-
----
-
-## 🚀 Current Focus
-
-```text
-Frontend Development     ███████████████████░░   React.js / Next.js
-Backend Development      ████████████████░░░░░   Django / REST APIs
-AI & Machine Learning    ██████████████░░░░░░░   AI-powered Applications
-Database                 ███████████████░░░░░░   MySQL / MongoDB
-Problem Solving          ███████████████░░░░░░   DSA / Programming
-````
-
-> Building. Learning. Improving. Repeating. ⚡
-
----
-
-## ⭐ Featured Project
-
-### 🏥 CareSetu__AI
-
-An AI-powered healthcare-focused project designed to explore how modern web technologies and AI can be combined to create useful digital solutions.
-
-**Tech Stack:**
-
-`React` `JavaScript` `Python` `AI` `REST API`
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/abhilash-04/CareSetu__AI">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
+<a href="https://linkedin.com/in/abhilash-sahu-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash-sahu-" height="30" width="40" /></a>
+<a href="https://instagram.com/_abhilash_sahu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhilash_sahu_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@elite_abhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@elite_abhilash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devtacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devtacode" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 💼 Other Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-04&show_icons=true&locale=en&layout=compact" alt="abhilash-04" /></p>
 
-<table>
-<tr>
-<td width="50%">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash-04&show_icons=true&locale=en" alt="abhilash-04" /></p>
 
-### 🎓 Smart Student Hub
-
-AI-based student portfolio and achievement management system designed to help students digitally manage, verify and showcase their achievements.
-
-**Stack:**
-`React` `Django` `MySQL` `AI/ML`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development Projects
-
-A collection of responsive websites and applications built while exploring modern frontend and backend development.
-
-**Stack:**
-`HTML` `CSS` `JavaScript` `React` `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhilash-04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-04&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
- height="180"
- alt="Top Languages"
-/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=abhilash-04&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhilash-04&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=abhilash-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📌 GitHub Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhilash-04&theme=github_dark"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhilash-04&theme=github_dark"
-    alt="Repositories Per Language"
-    height="170"
-  />
-
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhilash-04&theme=github_dark"
- alt="Most Commit Language"
- height="170"
-/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/abhilash-sahu-" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/_abhilash_sahu_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/@elite_abhilash" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank"/>
-</a>
-
-<a href="https://leetcode.com/devtacode/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
-</a>
-
-</p>
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="mailto:abhilashsahu305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhilashsahu305%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy turning ideas into projects and learning something new with every build. 🚀
-
----
-
-<h3 align="center">
-  Thanks for visiting my profile! 👋
-</h3>
-
-<p align="center">
-  <i>Let's build something meaningful with code.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
-</p>
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash-04&" alt="abhilash-04" /></p>
