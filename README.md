@@ -1,31 +1,17 @@
 ````markdown
-<!-- ========================= HEADER ========================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Abhilash Sahu
-</h1>
+<h1 align="center">Hi 👋, I'm Abhilash Sahu</h1>
 
 <h3 align="center">
   Full Stack Developer • AI Enthusiast • Software Developer 🇮🇳
 </h3>
 
 <p align="center">
-  <a href="https://github.com/abhilash-04">
-    <img src="https://komarev.com/ghpvc/?username=abhilash-04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abhilash-04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/abhilash-04?label=Followers&style=flat" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/abhilash-04?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abhilash-04">
-    <img src="https://img.shields.io/github/followers/abhilash-04?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/abhilash-04?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abhilash-04?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
-  </a>
-</p>
-
-
-<!-- ========================= ABOUT ========================= -->
+---
 
 ## 👨‍💻 About Me
 
@@ -36,25 +22,23 @@ I'm **Abhilash Sahu**, a passionate developer from India 🇮🇳 who enjoys bui
 - 💻 Interested in **Full Stack Development & AI**
 - 🧠 Exploring **AI-powered applications and intelligent systems**
 - 🚀 I enjoy turning ideas into functional products
-- 🤝 Open to learning, collaboration and interesting projects
 - 📚 Continuously improving my **DSA, development and software engineering skills**
 
+---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
-
-## 🚀 What I'm Currently Focused On
+## 🚀 Current Focus
 
 ```text
 Frontend Development     ███████████████████░░   React.js / Next.js
 Backend Development      ████████████████░░░░░   Django / REST APIs
 AI & Machine Learning    ██████████████░░░░░░░   AI-powered Applications
-Database                  ███████████████░░░░░░   MySQL / MongoDB
+Database                 ███████████████░░░░░░   MySQL / MongoDB
 Problem Solving          ███████████████░░░░░░   DSA / Programming
 ````
 
 > Building. Learning. Improving. Repeating. ⚡
 
-<!-- ========================= FEATURED PROJECT ========================= -->
+---
 
 ## ⭐ Featured Project
 
@@ -62,7 +46,7 @@ Problem Solving          ███████████████░░░�
 
 An AI-powered healthcare-focused project designed to explore how modern web technologies and AI can be combined to create useful digital solutions.
 
-**Tech Stack**
+**Tech Stack:**
 
 `React` `JavaScript` `Python` `AI` `REST API`
 
@@ -72,7 +56,7 @@ An AI-powered healthcare-focused project designed to explore how modern web tech
   </a>
 </p>
 
-<!-- ========================= OTHER PROJECTS ========================= -->
+---
 
 ## 💼 Other Projects
 
@@ -102,7 +86,7 @@ A collection of responsive websites and applications built while exploring moder
 </tr>
 </table>
 
-<!-- ========================= TECH STACK ========================= -->
+---
 
 ## 🛠️ Languages & Tools
 
@@ -142,7 +126,7 @@ A collection of responsive websites and applications built while exploring moder
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+---
 
 ## 📊 GitHub Analytics
 
@@ -161,7 +145,7 @@ A collection of responsive websites and applications built while exploring moder
 
 </p>
 
-<!-- ========================= STREAK ========================= -->
+---
 
 ## 🔥 Contribution Streak
 
@@ -172,7 +156,7 @@ A collection of responsive websites and applications built while exploring moder
   />
 </p>
 
-<!-- ========================= CONTRIBUTION GRAPH ========================= -->
+---
 
 ## 📈 Contribution Activity
 
@@ -183,7 +167,7 @@ A collection of responsive websites and applications built while exploring moder
   />
 </p>
 
-<!-- ========================= GITHUB TROPHIES ========================= -->
+---
 
 ## 🏆 GitHub Trophies
 
@@ -194,18 +178,7 @@ A collection of responsive websites and applications built while exploring moder
   />
 </p>
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/abhilash-04/abhilash-04/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-<!-- ========================= GITHUB SUMMARY ========================= -->
+---
 
 ## 📌 GitHub Profile Summary
 
@@ -231,7 +204,7 @@ A collection of responsive websites and applications built while exploring moder
 
 </p>
 
-<!-- ========================= CONNECT ========================= -->
+---
 
 ## 🌐 Connect With Me
 
@@ -255,7 +228,7 @@ A collection of responsive websites and applications built while exploring moder
 
 </p>
 
-<!-- ========================= CONTACT ========================= -->
+---
 
 ## 📫 Contact
 
@@ -265,13 +238,13 @@ A collection of responsive websites and applications built while exploring moder
   </a>
 </p>
 
-<!-- ========================= FUN FACT ========================= -->
+---
 
 ## ⚡ Fun Fact
 
 > I enjoy turning ideas into projects and learning something new with every build. 🚀
 
-<!-- ========================= FOOTER ========================= -->
+---
 
 <h3 align="center">
   Thanks for visiting my profile! 👋
@@ -285,51 +258,3 @@ A collection of responsive websites and applications built while exploring moder
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </p>
 ```
-
-### One important thing: the 🐍 Snake section
-
-The snake image **will not work automatically** just because you add that `<img>` tag. You need a GitHub Actions workflow that generates:
-
-`output/github-contribution-grid-snake.svg`
-
-Create this file in your profile repository:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### My recommendation
-
-I would **keep the README slightly restrained** rather than adding every possible GitHub widget. Too many stats can make a profile look like a template.
-
-The strongest sections for **your profile specifically** are:
-
-**Identity → About → Current Project → Featured Projects → Tech Stack → GitHub Analytics → Streak → Contribution Graph → Trophies → Connect**
-
-Also, I intentionally didn't describe you as a *"hackathon builder"*—your profile is better positioned around **Full Stack + AI + Software Development**.
